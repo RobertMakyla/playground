@@ -1,4 +1,4 @@
-name := "playground"
+name := "Scala playground"
 
 version := "1.0"
 
